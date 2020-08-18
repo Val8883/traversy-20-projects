@@ -85,6 +85,11 @@ ul {
   align-items: center;
 }
 
+.showcase-item:hover {
+  cursor: default !important;
+  transform: scale(1) !important;
+}
+
 .showcase li {
   display: flex;
   align-items: center;
